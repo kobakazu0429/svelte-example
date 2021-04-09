@@ -8,7 +8,6 @@ export default {
     rollupOptions: {
       input: {
         main: path.resolve(__dirname, "index.html"),
-        seekbar: path.resolve(__dirname, "seekbar.html"),
       },
     },
   },

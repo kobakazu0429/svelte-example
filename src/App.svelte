@@ -1,6 +1,7 @@
 <script lang="ts">
   import Tailwind from "./Tailwind.svelte";
+  import MonacoEditor from "./MonacoEditor.svelte";
 </script>
 
 <Tailwind />
-<h1 class="text-red-300 text-6xl">hello</h1>
+<MonacoEditor />
