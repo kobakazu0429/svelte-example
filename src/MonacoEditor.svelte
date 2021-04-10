@@ -41,8 +41,8 @@
 
 <div id="app" />
 
-<style global>
-  body {
+<style>
+  :global(body) {
     height: 100vh;
     font-family: sans-serif;
   }
